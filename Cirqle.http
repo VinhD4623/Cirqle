@@ -1,0 +1,6 @@
+@Cirqle_HostAddress = http://localhost:5051
+
+GET {{Cirqle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
